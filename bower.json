@@ -1,0 +1,21 @@
+{
+  "name": "lider-sono",
+  "homepage": "https://github.com/Valverde0611/site-do-lider",
+  "authors": [
+    "Renata Valverde <renatavalverd@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
